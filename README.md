@@ -22,10 +22,19 @@
     <li>I'm open to making friends and I am also cool with INT, C+H, and W2I, but I prefer W2I because I tend to be somewhat off-tab when I'm online, and W2I helps me keep track of our conversations better!</li>
     <li>I like many things, but I don't consider myself a part of any fandom. I'm a casual, more laid-back fan.</li>
     <li>I know how to separate the art from the artist when it comes to the problematic majority.</li>
-    <li>I do NOT support any problematic creators just because I like something they've made. And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be problematic. Keep your biased opinions to yourself.</li>
-    <li>I am neurodivergent with CPTSD + GAD + Agoraphobia, so I will be a bit guarded with you at first, but I will gradually open up.</li>
-    <li>I'm an SA + SH (several times) victim and I also have a severe trauma from a pedophile, so be a <em>little</em> mindful of your pointed jokes, unless you are a close friend please. (DW I'm <strong>/gen</strong> chill with dark humor in general + it's my coping mechanism.)</li>
   </ul>
+</div>
+
+<!-- Trigger Warning Section -->
+<div align="center">
+  <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ Trigger Warning for Sensitive Topics ⚠️</h2>
+  <details>
+    <summary>Click to Reveal</summary>
+    <ul>
+      <li>I am neurodivergent with CPTSD + GAD + Agoraphobia, so I will be a bit guarded with you at first, but I will gradually open up.</li>
+      <li>I'm an SA + SH (several times) victim and I also have a severe trauma from a pedophile, so be a <em>little</em> mindful of your pointed jokes, unless you are a close friend please. (DW I'm <strong>/gen</strong> chill with dark humor in general + it's my coping mechanism.)</li>
+    </ul>
+  </details>
 </div>
 
 <!-- Added spacing -->
