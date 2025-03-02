@@ -19,20 +19,20 @@
 <div align="right">
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
   <ul>
-    <li>I'm open to making friends and I am also cool with INT, C+H, and W2I, but I prefer W2I because I tend to be somewhat off-tab when I'm online, and W2I helps me keep track of our conversations better!</li>
-    <li>I like many things, but I don't consider myself a part of any fandom. I'm a casual, more laid-back fan.</li>
-    <li>I know how to separate the art from the artist when it comes to the problematic majority.</li>
+    <li>I'm open to making friends and I am also cool with INT, C+H and W2I (Preferably because it helps me track our converstation better!).
+    <li>I like many things, but I do not consider myself a part of any fandom. I'm more of a casual, laid-back fan.</li>
+    <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be problematic for the sake of ''morality'' on the internet. Keep your biased opinions to yourself.</li>
   </ul>
 </div>
 
-<!-- Trigger Warning Section -->
+<!-- Trigger Warning Section:  -->
 <div align="center">
   <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ Trigger Warning for Sensitive Topics ⚠️</h2>
   <details>
     <summary>Click to Reveal</summary>
     <ul>
-      <li>I am neurodivergent with CPTSD + GAD + Agoraphobia; So I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy.</li>
-      <li>I am a SA + SH (several times) victim and I also have a severe trauma from a pedophile and stalking, so please be a <em>little</em> mindful of your pointed jokes, unless you are a close friend. I'm <strong>/gen</strong> chill with dark humor because it's my coping mechanism.</li>
+      <li>I am Neurodivergent with CPTSD + GAD + CEN + Agoraphobia; So I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy.</li>
+      <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile, stalking, and a familial/generational trauma so please be a <em>little</em> mindful of your pointed jokes, unless you are a close friend. Otherwise, I'm <strong>/gen</strong> chill and OK with dark humor because it's also my coping mechanism.</li>
     </ul>
   </details>
 </div>
