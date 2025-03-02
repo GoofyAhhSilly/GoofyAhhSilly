@@ -31,8 +31,8 @@
   <details>
     <summary>Click to Reveal</summary>
     <ul>
-      <li>I am neurodivergent with CPTSD + GAD + Agoraphobia, so I will be a bit guarded with you at first, but I will gradually open up.</li>
-      <li>I'm an SA + SH (several times) victim and I also have a severe trauma from a pedophile, so be a <em>little</em> mindful of your pointed jokes, unless you are a close friend please. (DW I'm <strong>/gen</strong> chill with dark humor in general + it's my coping mechanism.)</li>
+      <li>I am neurodivergent with CPTSD + GAD + Agoraphobia; So I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy.</li>
+      <li>I am a SA + SH (several times) victim and I also have a severe trauma from a pedophile and stalking, so please be a <em>little</em> mindful of your pointed jokes, unless you are a close friend. I'm <strong>/gen</strong> chill with dark humor because it's my coping mechanism.</li>
     </ul>
   </details>
 </div>
