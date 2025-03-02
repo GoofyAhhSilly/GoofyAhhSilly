@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <h1>ABT-M</h1>
+  <p>HELLOOO... you probably encountered my GitHub on PonyTown!<br>
+  Read the following to get to know me before you interact:</p>
+</div>
 
-<!--
-**GoofyAhhSilly/GoofyAhhSilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">ᴛʜᴇ ɴᴏ ɴᴏ ʟɪsᴛ:</h2>
+  <ul>
+    <li>I don't care abt drama and don't want to be dragged into any! (Shocking.. I know.)</li>
+    <li>I don't fw harassment of <strong>any</strong> kind! IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas; I am NOT responsible for the actions of others.</li>
+    <li>Do NOT expect me to blindly block people unless they have acted on an actual, proven crime, rather than some childish antics or squabbles on the internet.</li>
+    <li>I don't interact with people below 17+ and I will hide you <strong>immediately</strong> if you are a minor.</li>
+    <li>I like what I like and you like what you like, don't try to force your opinions on mine.</li>
+    <li>Respect is earned, not given + the basic DNI criteria.</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+<div align="right">
+  <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
+  <ul>
+    <li>I'm open to making friends and I am also cool with INT, C+H, and W2I, but I prefer W2I because I tend to be somewhat off-tab when I'm online, and W2I helps me keep track of our conversations better!</li>
+    <li>I like many things, but I don't consider myself a part of any fandom. I'm a casual, more laid-back fan.</li>
+    <li>I know how to separate the art from the artist when it comes to the problematic majority.</li>
+    <li>I do NOT support any problematic creators just because I like something they've made. And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be problematic. Keep your biased opinions to yourself.</li>
+    <li>I am neurodivergent with CPTSD + GAD + Agoraphobia, so I will be a bit guarded with you at first, but I will gradually open up.</li>
+    <li>I'm an SA + SH (several times) victim and I also have severe trauma from a pedophile, so be a <em>little</em> mindful of your pointed jokes unless you are a close friend please. (DW I'm <strong>/gen</strong> chill with dark humor in general + it's my coping mechanism.)</li>
+    <li>Uhhh... what else? Oh yeah, keep in mind that I try too hard to be funny sometimes LMFAO.</li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Added spacing -->
+<br><br>
+
+<div align="center">
+  <p><strong>Uhhh... what else? Oh yeah, keep in mind that I try too hard to be funny sometimes LMFAO.</strong></p>
+  <img src="https://i.imgur.com/63uaJvl.png" alt="Your Image Description" width="300">
+</div>
