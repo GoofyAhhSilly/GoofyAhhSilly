@@ -9,7 +9,7 @@
   <ul>
     <li>I don't care abt drama and don't want to be dragged into any! (Shocking.. I know.)</li>
     <li>I don't fw harassment of <strong>any</strong> kind! IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas; I am NOT responsible for the actions of others.</li>
-    <li>Do NOT expect me to blindly block people unless they have acted on an actual, proven crime, rather than some childish antics or squabbles on the internet.</li>
+    <li>Do NOT expect me to blindly block people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
     <li>I don't interact with people below 17+ and I will hide you <strong>immediately</strong> if you are a minor.</li>
     <li>I like what I like and you like what you like, don't try to force your opinions on mine.</li>
     <li>Respect is earned, not given + the basic DNI criteria.</li>
