@@ -25,7 +25,6 @@
     <li>I do NOT support any problematic creators just because I like something they've made. And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be problematic. Keep your biased opinions to yourself.</li>
     <li>I am neurodivergent with CPTSD + GAD + Agoraphobia, so I will be a bit guarded with you at first, but I will gradually open up.</li>
     <li>I'm an SA + SH (several times) victim and I also have severe trauma from a pedophile, so be a <em>little</em> mindful of your pointed jokes unless you are a close friend please. (DW I'm <strong>/gen</strong> chill with dark humor in general + it's my coping mechanism.)</li>
-    <li>Uhhh... what else? Oh yeah, keep in mind that I try too hard to be funny sometimes LMFAO.</li>
   </ul>
 </div>
 
