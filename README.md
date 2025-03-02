@@ -19,9 +19,9 @@
 <div align="right">
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
   <ul>
-    <li>I'm open to making friends and I am also cool with INT, C+H and W2I (Preferably because it helps me track our converstation better!).
-    <li>I like many things, but I do not consider myself a part of any fandom. I'm more of a casual, laid-back fan.</li>
-    <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be problematic for the sake of ''morality'' on the internet. Keep your biased opinions to yourself.</li>
+    <li>I AM open to making new friends and I am cool with INT, C+H and W2I! (Preferably because it helps me track our converstation better!).
+    <li>I like many things, but I do not consider myself a part of any fandoms. I'm more of a casual, laid-back fan.</li>
+    <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the internet. Go back to your twitter corner.</li>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@
   <details>
     <summary>Click to Reveal</summary>
     <ul>
-      <li>I am Neurodivergent with CPTSD + GAD + CEN + Agoraphobia; So I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy.</li>
+      <li>I am Neurodivergent with CPTSD + GAD + CEN + Agoraphobia; I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy over time.</li>
       <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile, stalking, and a familial/generational trauma so please be a <em>little</em> mindful of your pointed jokes, unless you are a close friend. Otherwise, I'm <strong>/gen</strong> chill and OK with dark humor because it's also my coping mechanism.</li>
     </ul>
   </details>
