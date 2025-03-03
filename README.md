@@ -21,7 +21,7 @@
   <ul>
     <li>I AM open to making new friends and I am cool with INT, C+H and W2I! (Preferably because it helps me track our converstation better.)
     <li>I like many, many things, but I do not consider myself a part of any fandoms. I'm more of a casual, laid-back fan.</li>
-    <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the INTERNET. Go back to your toxic twitter hole.</li>
+    <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the INTERNET. There are more important things in life.</li>
   </ul>
 </div>
 
