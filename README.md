@@ -19,8 +19,8 @@
 <div align="right">
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
   <ul>
-    <li>I AM open to making new friends and I am cool with INT, C+H and W2I! (Preferably because it helps me track our converstation better.)
-    <li>I like many, many things, but I do not consider myself a part of any fandoms. I'm more of a casual, laid-back fan.</li>
+    <li>I like making new friends and I'm cool with INT, C+H and W2I! (Preferably because it helps me track our converstation better.)
+    <li>I like many, many things, but I don't consider myself a part of any fandoms. I'm more of a casual laid-back fan.</li>
     <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the INTERNET. There are more important things in life.</li>
   </ul>
 </div>
@@ -31,7 +31,7 @@
   <details>
     <summary>Click to Reveal</summary>
     <ul>
-      <li>I am Neurodivergent with CPTSD + GAD + Agoraphobia; I will be a bit guarded with you at first, but I will gradually open up if I deem you trustworthy over time.</li>
+      <li>I am Neurodivergent with CPTSD + GAD + Agoraphobia; I'll be guarded around you at first, but I will gradually open up if I deem you trustworthy over time.</li>
       <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile, stalking and humiliation, so please be a <em>little</em> mindful of your pointed jokes UNLESS you are a close friend. Otherwise, I'm <strong>/gen</strong> chill and OK with dark humor because it's also my coping mechanism.</li>
     </ul>
   </details>
