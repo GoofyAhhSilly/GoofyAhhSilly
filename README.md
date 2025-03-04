@@ -17,27 +17,27 @@
   </ul>
 </div>
 
-<div align="right">
+<div align="left">
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
   <ul>
-    <li>I like making new friends and I'm cool with INT, C+H, and W2I! < (this is for PT players.)
-    <li>I like many things, but I don't consider myself a part of any fandoms. I'm more of a casual laid-back fan.</li>
+    <li>I like meeting new people and making new friends and I'm cool with INT, C+H, and W2I! < (this is for PT players.)</li>
+    <li>I like many things, but I don't consider myself a part of any fandom. I'm more of a casual laid-back fan.</li>
     <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the INTERNET. There are better, more important things to worry about in life.</li>
     <li>My coping mechanism is DARK humor; If you can't handle it, please walk away.</li>
-    <li>I have the memory of a goldfish so if I happen to forget or something in our converstation, please remind me.</li>
+    <li>I have the memory of a goldfish so if I happen to forget something in our conversation please remind me.</li>
   </ul>
 </div>
 
 <!-- Trigger Warning Section:  -->
-<div align="center">
+<div align="left">
   <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ TW; SENSITIVE Topics ⚠️</h2>
   <details>
     <summary>Click to Reveal</summary>
     <ul>
       <li>I'm Neurodivergent with CPTSD + GAD + Agoraphobia; I'll be guarded around you at first, but I will gradually open up if I deem you trustworthy over time.</li>
-      <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile, stalking and humiliation, so be a <em>little</em> mindful of your pointed jokes UNLESS you are a close friend. Otherwise, I'm chill and OK with dark humor because like I said, it's my coping mechanism.</li>
-      <li>I am not looking for sympathy in any way, but aknowledgement/awareness is appreciated. I'm merely adding this section for the sake of letting people know what they're dealing with, as I'm often misunderstood and people take some of the things I say in the wrong way. Generally, I couldn't care less about what others think of my situationships lmao.</li>
-      <li>I'm gonna let you know right away that I don't believe in god, I don't care about the bible, or christianity. I am a LaVeyan Satanist. If that bothers you, walk away.</li> 
+      <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile + stalking and humiliation, so be a <em>little</em> mindful of your pointed jokes UNLESS you are a close friend. Otherwise, I'm chill and OK with dark humor because like I said, it's my coping mechanism.</li>
+      <li>I would like to clarify that I am not looking for sympathy in any way, and you don't have to tiptoe around me but acknowledgment/awareness is appreciated. I'm merely adding this section for the sake of letting people know what they're dealing with, as I'm often misunderstood and people take some of the things I say in the wrong direction, even though I AM someone who has gone through these experiences and then argue with me like they know better. But generally speaking, I couldn't care less about what people think of me LMAO.</li>
+      <li>I'm gonna let you know right away that I don't believe in god, I don't care about the bible, or Christianity. I am a LaVeyan Satanist. If that bothers you, walk away.</li> 
     </ul>
   </details>
 </div>
