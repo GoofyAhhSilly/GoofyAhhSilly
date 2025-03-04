@@ -5,19 +5,6 @@
 </div>
 
 <div align="left">
-  <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">ᴛʜᴇ ɴᴏ ɴᴏ ʟɪsᴛ:</h2>
-  <ul>
-    <li><strong>I don't care about drama and don't want to be dragged into any.</strong> (the fact that I'm forced to add this bc some people have 0 common fucking sense istg)</li>
-    <li>I don't fw harassment of <strong>any</strong> kind; IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas. I am NOT responsible for the actions of others.</li>
-    <li>Do NOT expect me to blindly side/agree with people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
-    <li>I don't interact with people below 17+ and I will block/hide you <strong>immediately</strong> if you are a minor.</li>
-    <li>Respect is earned, not given. + MY main DNI criteria: Pedophile, Zoophile, Racist, Sexist, Ableist, Discrimination, etc. If you don't fit these then Idrc. I believe that everyone show have the right to own a choice of opinion REGARDLESS if it benefits you or not. As long as they aren't forcing them, directly insulting you, and <strong>ACTUALLY</strong> physically harming you or others then who the fuck cares? (And if you are the type of person to harass someone over this or pressure them into agreeing with you instead of walking away, you have some serious fucking issues and need to grow up.)</li>
-    <li>Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life. IDGAF.</li>
-    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different life style, culture, perspective and mindset. DNI if you're overly sensitive or easily triggered.</li>
-  </ul>
-</div>
-
-<div align="left">
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">ᴏᴋ, ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ, ᴇᴛᴄ ʟɪsᴛ:</h2>
   <ul>
     <li>I like meeting new people and making new friends and I'm cool with INT, C+H, and W2I! < (this is for PT players.)</li>
@@ -26,6 +13,19 @@
     <li>My coping mechanism is DARK humor; If you can't handle it, please walk away.</li>
     <li>I have the memory of a goldfish so if I happen to forget something in our conversation please remind me.</li>
     <li>Communication is KEY and we are all adults here; That being said, I <strong>can't</strong> know if I said something wrong or crossed a boundary if you don't communicate it. Childish behaviour will <strong>not</strong> be tolerated and this is your only warning.</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">ᴛʜᴇ ɴᴏ ɴᴏ ʟɪsᴛ:</h2>
+  <ul>
+    <li><strong>I don't care about drama and don't want to be dragged into any.</strong> (the fact that I'm forced to add this bc some people have 0 common fucking sense istg)</li>
+    <li>I don't fw harassment of <strong>any</strong> kind; IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas. I am NOT responsible for the actions of others.</li>
+    <li>Do NOT expect me to blindly side/agree with people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
+    <li>I don't interact with people below 17+ and I will block/hide you <strong>immediately</strong> if you are a minor.</li>
+    <li>Respect is earned, not given. + MY main DNI criteria: Pedophile, Zoophile, Racist, Sexist, Ableist, Discrimination, etc. If you don't fit these then Idrc. I believe that everyone should have the right to own a choice of opinion REGARDLESS if it benefits you or not. As long as they aren't forcing them, directly insulting you, and <strong>ACTUALLY</strong> physically harming you or others then who the fuck cares? (And if you are the type of person to harass someone over this or pressure them into agreeing with you instead of walking away, you have some serious fucking issues and need to grow up.)</li>
+    <li>Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life. IDGAF.</li>
+    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different life style, culture, perspective and mindset. DNI if you're overly sensitive or easily triggered.</li>
   </ul>
 </div>
 
