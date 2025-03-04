@@ -7,7 +7,7 @@
 <div align="left">
   <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">ᴛʜᴇ ɴᴏ ɴᴏ ʟɪsᴛ:</h2>
   <ul>
-    <li><strong>I don't care about drama and don't want to be dragged into any.</strong> (Shocking... but it's even more shocking that I HAVE to add this to the list.)</li>
+    <li><strong>I don't care about drama and don't want to be dragged into any.</strong> (the fact that I'm forced to add this bc some people have 0 common fucking sense istg)</li>
     <li>I don't fw harassment of <strong>any</strong> kind; IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas. I am NOT responsible for the actions of others.</li>
     <li>Do NOT expect me to blindly side/agree with people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
     <li>I don't interact with people below 17+ and I will block/hide you <strong>immediately</strong> if you are a minor.</li>
