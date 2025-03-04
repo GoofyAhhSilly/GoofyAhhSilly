@@ -25,7 +25,7 @@
     <li>I separate the art from the artist when it comes to the problematic majority; And I'm certainly NOT about to start dropping every piece of media every time a creator turns out to be piece of shit for the sake of ''morality'' on the INTERNET. There are better, more important things to worry about in life.</li>
     <li>My coping mechanism is DARK humor; If you can't handle it, please walk away.</li>
     <li>I have the memory of a goldfish so if I happen to forget something in our conversation please remind me.</li>
-    <li>Communication is KEY. We are all adults here. I can't know if I did/said something wrong or crossed a boundary if you don't communicate it with me. Childish behaviour will not be tolerated.</li>
+    <li>Communication is KEY and we are all adults here; I can't know if I did/said something wrong or crossed a boundary if you don't communicate it with me. Childish behaviour will not be tolerated and this is your only warning.</li>
   </ul>
 </div>
 
