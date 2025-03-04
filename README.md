@@ -37,7 +37,7 @@
     <ul>
       <li>I'm Neurodivergent with CPTSD + GAD + Agoraphobia; I'll be guarded around you at first, but I will gradually open up if I deem you trustworthy over time.</li>
       <li>I'm a victim of SA + SH (multiple times) along with a <strong>severe</strong> trauma from a pedophile + stalking and humiliation, so be a <em>little</em> mindful of your pointed jokes UNLESS you are a close friend. Otherwise, I'm chill and OK with dark humor because like I said, it's my coping mechanism.</li>
-      <li>I would like to clarify that I am NOT looking for sympathy and you don't have to tiptoe around me at all but acknowledgment/awareness is appreciated. I'm adding this section ONLY for the sake of letting people know what they're dealing with. I've had people blindly start to argue with me in regards of those topics like they know better or have the ''moral high ground'' even though I AM someone who has gone through these experiences first-hand.</li>
+      <li>I would like to clarify that I am NOT looking for sympathy and you don't have to tiptoe around me at all but acknowledgment/awareness is appreciated. I'm adding this section ONLY for the sake of letting people know what they're dealing with. I've had people blindly start to argue with me in regards of those topics like they have the ''moral high ground'' even though I AM someone who has gone through these experiences first-hand.</li>
       <li>I'm gonna let you know right away that I don't believe in god, I don't care about the bible, or Christianity. I am a LaVeyan Satanist. If that bothers you, walk away. I couldn't care less about what people think of me and my beliefs LMAO.</li> 
     </ul>
   </details>
