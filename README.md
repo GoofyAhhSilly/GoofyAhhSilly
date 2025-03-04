@@ -12,8 +12,8 @@
     <li>Do NOT expect me to blindly side/agree with people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
     <li>I don't interact with people below 17+ and I will hide you <strong>immediately</strong> if you are a minor.</li>
     <li>I like what I like and you like what you like; don't force your opinions.</li>
-    <li>Respect is earned, not given + my basic DNI criteria: Pedophile, Zoophile, Racist, Sexist, Ableist, Discrimination, etc. Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life.</li>
-    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different life style, culture, perspective and mindset.</li>
+    <li>Respect is earned, not given + my basic DNI criteria: Pedophile, Zoophile, Racist, Sexist, Ableist, Discrimination, etc. Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life. IDGAF. </li>
+    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different life style, culture, perspective and mindset. DNI if you're overly sensitive.</li>
   </ul>
 </div>
 
