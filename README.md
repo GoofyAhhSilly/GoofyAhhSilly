@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">✅ OK List:</h2>
+  <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">✅ OK List: <img src="https://i.imgur.com/Z3TrtGJ.gif" alt="My Blinkie"></h2>
   <ul>
     <li><strong>I like meeting new people and making friends.</strong> If you’re chill, then I'm chill and we’ll get along just fine. (For PT players: I’m cool with INT, C+H, and W2I!)</li>
     <li><strong>I enjoy media but don’t fw fandom drama.</strong> I like what I like without obsessing over it. Toxic stan culture and petty chronically online discourses don’t interest me.</li>
@@ -17,7 +17,8 @@
 </div>
 
 <div align="left">
-  <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">❌ NO NO List:</h2>
+  <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">❌ NO NO List: <img src="https://blinkies.cafe/b/display/0106-vicioussmiley.gif" alt="My Blinkie"> </h2>
+
   <ul>
     <li><strong>I don’t give a fuck about drama.</strong> Don't involve or drag me into shit I am not involved with.</li>
     <li><strong>I don't fw harassment of any kind.</strong> If someone on my friend list does something weird, you can inform me, but don’t harass/attack me over it; I am NOT responsible for the actions of others.</li>
@@ -29,7 +30,8 @@
 </div>
 
 <div align="left">
-  <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ TW: Sensitive Topics ⚠️</h2>
+  <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ TW: Sensitive Topics ⚠ <img src="https://blinkies.cafe/b/blinkiesCafe-b3.gif" alt="My Blinkie">
+</h2>
   <details>
     <summary>Click to Reveal</summary>
     <ul>
