@@ -7,13 +7,13 @@
 <div align="left">
   <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">ᴛʜᴇ ɴᴏ ɴᴏ ʟɪsᴛ:</h2>
   <ul>
-    <li>I don't care about drama and don't want to be dragged into any! (Shocking... but it's even more shocking that I HAVE to add this to the list.)</li>
+    <li><strong>I don't care about drama and don't want to be dragged into any.</strong> (Shocking... but it's even more shocking that I HAVE to add this to the list.)</li>
     <li>I don't fw harassment of <strong>any</strong> kind; IF someone on my friend list does something weird, you can inform me, but don't associate me with it and/or harass me and keep me out of your dramas. I am NOT responsible for the actions of others.</li>
     <li>Do NOT expect me to blindly side/agree with people unless they have acted on an actual, proven crime, rather than some childish antics or chronically online squabbles on the internet.</li>
     <li>I don't interact with people below 17+ and I will hide you <strong>immediately</strong> if you are a minor.</li>
     <li>I like what I like and you like what you like; don't force your opinions.</li>
-    <li>Respect is earned, not given + basic DNI criteria. Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life.</li>
-    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different perspective, opinion, life style and culture.</li>
+    <li>Respect is earned, not given + my basic DNI criteria: Racist, Sexist, Ableist, Discrimination, etc. Also, I practically abuse the perma-hide button so if I don't like you for whatever reason it's bye-bye and I'm moving on with my life.</li>
+    <li>I would like to remind you that I am NOT American and that I shouldn't be forced to agree with your culture. I am SLAVIC; Bulgarian, a person from Eastern Europe. I have a completely different life style, culture, perspective and mindset.</li>
   </ul>
 </div>
 
