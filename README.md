@@ -30,7 +30,7 @@
 </div>
 
 <div align="left">
-  <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ TW: Sensitive Topics ⚠ <img src="https://blinkies.cafe/b/blinkiesCafe-b3.gif" alt="My Blinkie">
+  <h2 style="color: orange; font-family: 'Courier New', Courier, monospace;">⚠️ TW: Sensitive Topics ⚠ <img src="https://i.imgur.com/M4jLcor.gif" alt="My Blinkie">
 </h2>
   <details>
     <summary>Click to Reveal</summary>
