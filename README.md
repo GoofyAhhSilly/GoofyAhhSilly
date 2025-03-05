@@ -37,7 +37,7 @@
     <ul>
       <li><strong>I’m neurodivergent</strong> (+CPTSD, GAD, Agoraphobia). I’m guarded at first but will open up if I trust you over time.</li>
       <li><strong>I have severe trauma</strong> (SA, SH, stalking, emotional and pedophile-related abuse). I’m fine with dark humor, but don’t make pointed jokes unless we’re close.</li>
-      <li><strong>I don’t want any therapy, pity or sympathy—just awareness. I'm adding this section ONLY for the sake of letting people know what they're dealing with. I’ve had some argue with me about these topics like they know better, despite never living through them. Don’t act like you have the "moral high ground" over my own experiences. Seriously, <strong>don't</strong> be that idiot.</li>
+      <li><strong>I don’t want any therapy, pity or sympathy—just awareness. I'm adding this section ONLY for the sake of letting people know what they're dealing with. Some people act like they know better, despite never living through them. That being said, don’t act like you have the "moral high ground" over my own experiences. Seriously, <strong>don't</strong> be that idiot.</li>
       <li><strong>I am NOT American.</strong> I am Slavic (Bulgarian, Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, DNI.</li>
       <li><strong>I’m a LaVeyan Satanist.</strong> I don’t believe in God, the Bible, or Christianity. If that bothers you, walk away.</li>
       <li><strong>If you’re overly sensitive or easily triggered, don’t interact.</strong> I make my own judgements based on your behaviour + I’m blunt and unfiltered. So if that’s a problem, don’t engage. Just DNI.</li>
