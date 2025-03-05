@@ -25,7 +25,7 @@
     <li><strong>I don’t blindly take sides.</strong> If there’s no actual, proven crime, I don’t care about your petty, chronically online fights.</li>
     <li><strong>Minors GTFO.</strong> I don’t interact with anyone under (17+). If I find out you’re a minor, you’re getting blocked, no discussion.</li>
     <li><strong>Respect is earned, not given.</strong> I don’t care about your identity or pronouns or beliefs, if you’re an asshole, I will treat you like one.</li>
-    <li><strong>I perma-block/hide people freely.</strong> If I don’t like you for WHATEVER reason, you’re gone. I don’t owe you my time or energy and I refuse to engage with people who annoy me. (I block/hide people for three main reasons: you're an unbearable toxic walking disaster, you're a minor who shouldn't be here, or you treat every conversation like a personal therapy session, none of which are my problem.</li>
+    <li><strong>I perma-block/hide people freely.</strong> If I don’t like you for WHATEVER reason, you’re gone. I don’t owe you my time or energy and I refuse to engage with people who annoy me. (I block/hide people for three main reasons: you're an unbearable toxic walking disaster that gets into/starts unnecesary drama, you're a minor who shouldn't be here, or you treat every conversation like a personal therapy session, none of which are my problem.</li>
   </ul>
 </div>
 
