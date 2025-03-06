@@ -36,7 +36,7 @@
     <summary>Click to Reveal</summary>
     <ul>
       <li><strong>I’m neurodivergent</strong> (+CPTSD, GAD, Agoraphobia). I’m guarded at first but will open up if I trust you over time.</li>
-      <li><strong>I have trauma from multiple things</strong> but I rarely bring those up. And even if I did, you are by no means obligated to tiptoe or filter yourself around me. None of my friends do and I prefer it that way. Be yourselves.</li>
+      <li><strong>I have severe trauma from multiple things</strong> but I don't bring those up often. And even if I did, you are by no means obligated to tiptoe or filter yourself around me. None of my friends do and I prefer it that way. Be yourselves.</li>
       <li><strong>I'm adding this section ONLY for the sake of letting people know what they're dealing with. That being said, don’t act like you have the "moral high ground" over my own experiences or how I cope with them. I also don't owe you the details of my trauma because at the end of the day it's <a href="https://i.imgur.com/JnWGkGm.mp4">✨none of your business✨</a>.</li>
       <li><strong>I am NOT American.</strong> I'm Slavic (Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, DNI.</li>
       <li><strong>I’m a LaVeyan Satanist.</strong> I don’t believe in God, the Bible, or Christianity. If that bothers you, DNI.</li>
