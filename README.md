@@ -10,7 +10,7 @@
     <li><strong>I like meeting new people and making friends!</strong> If you’re chill, then I'm chill and we’ll get along just fine so don't be scared to approach. (For PT players: I’m cool with INT, C+H, and W2I!)</li>
     <li><strong>I enjoy media but don’t fw fandom drama.</strong> I like what I like without obsessing over it. Toxic stan culture and petty online discourses don’t interest me.</li>
     <li><strong>I separate art from the artist.</strong> I am NOT about to start dropping every piece of media just because the creator is a piece of shit or YOU don't like it. There are bigger issues in life and morality debates over fiction are honestly stupid.</li>
-    <li><strong>My coping mechanism is DARK humor; If you can't handle it, please walk away. I REALLY don’t care if you don’t like it.</li>
+    <li><strong>My coping mechanism is DARK humor and I REALLY don’t care if you don’t like it.</li>
     <li><strong>I have the memory of a goldfish.</strong> If I forget something in our conversation, just remind me instead of getting annoyed. I genuenely don't remember shit sometimes.</li>
     <li><strong>Communication is key.</strong> If I cross a boundary, tell me like an adult instead of acting like you have rocks in your mouth. Passive-aggressive behavior won’t be tolerated and this is your only warning.</li>
   </ul>
@@ -36,10 +36,10 @@
     <summary>Click to Reveal</summary>
     <ul>
       <li><strong>I’m neurodivergent</strong> (+CPTSD, GAD, Agoraphobia). I’m guarded at first but will open up if I trust you over time.</li>
-      <li><strong>I have severe trauma</strong> (SA, SH, stalking, emotional and pedophile-related abuse). I’m fine with dark humor, but don’t make pointed jokes unless we’re close.</li>
-      <li><strong>I don’t want any therapy, pity or sympathy—just awareness. I'm adding this section ONLY for the sake of letting people know what they're dealing with. That being said, don’t act like you have the "moral high ground" over my own experiences or how I cope with them. I also don't owe you any exclusive details.</li>
-      <li><strong>I am NOT American.</strong> I am Slavic (Bulgarian, Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, DNI.</li>
-      <li><strong>I’m a LaVeyan Satanist.</strong> I don’t believe in God, the Bible, or Christianity. If that bothers you, walk away.</li>
+      <li><strong>I have severe trauma</strong> (SA, SH, stalking, emotional and pedophile-related abuse). Generally you really don't have to tiptoe around me and I’m fine with dark humor, but don’t make pointed jokes unless we’re close.</li>
+      <li><strong>I don’t want any therapy, pity or sympathy—just awareness. I'm adding this section ONLY for the sake of letting people know what they're dealing with. That being said, don’t act like you have the "moral high ground" over my own experiences or how I cope with them. I also don't owe you the details of my trauma because at the end of the day it's <a href="https://i.imgur.com/JnWGkGm.mp4">✨none of your business✨</a>.</li>
+      <li><strong>I am NOT American.</strong> I'm Slavic (Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, DNI.</li>
+      <li><strong>I’m a LaVeyan Satanist.</strong> I don’t believe in God, the Bible, or Christianity. If that bothers you, DNI.</li>
       <li><strong>If you’re overly sensitive or easily triggered, don’t interact.</strong> I make my own judgements based on your behaviour + I’m blunt and unfiltered. So if that’s a problem, don’t engage. Just DNI.</li>
       <li><strong>Bonus DNI if you don't agree with <a href="https://i.imgur.com/xkHZT1l.jpeg">THIS</a> as well.</li>
     </ul>
