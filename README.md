@@ -20,7 +20,7 @@
   <h2 style="color: red; font-family: 'Courier New', Courier, monospace;">❌ NO NO List: <img src="https://blinkies.cafe/b/display/0106-vicioussmiley.gif" alt="My Blinkie"> </h2>
 
   <ul>
-    <li><strong>I don’t give a fuck about drama.</strong> Don't involve or drag me into things I am not involved with.</li>
+    <li><strong>IDGAF about drama.</strong> Don't involve or drag me into things I am not involved with.</li>
     <li><strong>I don't fw harassment of any kind.</strong> If someone on my friend list does something weird, you can inform me, but don’t harass/attack me over it; I am NOT responsible for the actions of others.</li>
     <li><strong>I don’t blindly take sides.</strong> If there’s no actual, proven crime, then I don’t care about your petty chronically online fights.</li>
     <li><strong>Minors GTFO.</strong> I don’t interact with anyone under (17+). If I find out you’re a minor, you’re getting blocked, no discussion.</li>
@@ -36,7 +36,7 @@
     <summary>Click to Reveal</summary>
     <ul>
       <li><strong>I’m neurodivergent</strong> (+CPTSD, GAD, Agoraphobia). I’m guarded at first but will open up if I trust you over time.</li>
-      <li><strong>I have severe trauma</strong> (SA, SH, stalking, emotional and pedophile-related abuse) but you don't have to tiptoe around me. I promise, as long as you are normal and respectful we are chilling.</li>
+      <li><strong>I have severe trauma</strong> (SA, SH, stalking, emotional and pedophile-related abuse) but you don't have to tiptoe or filter yourself around me. None of my friends do and I prefer it that way. I promise, as long as you are normal and respectful we are 100% chilling and vibing.</li>
       <li><strong>I don’t want any therapy or sympathy—just awareness. I'm adding this section ONLY for the sake of letting people know what they're dealing with. That being said, don’t act like you have the "moral high ground" over my own experiences or how I cope with them. I also don't owe you the details of my trauma because at the end of the day it's <a href="https://i.imgur.com/JnWGkGm.mp4">✨none of your business✨</a>.</li>
       <li><strong>I am NOT American.</strong> I'm Slavic (Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, DNI.</li>
       <li><strong>I’m a LaVeyan Satanist.</strong> I don’t believe in God, the Bible, or Christianity. If that bothers you, DNI.</li>
