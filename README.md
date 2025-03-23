@@ -23,7 +23,7 @@
     <li><strong>I don't fw harassment of any kind.</strong> So if someone on my friend list does something weird, you can inform me but don’t harass/attack me over it; I am NOT responsible for the actions of others.</li>
     <li><strong>Minors DNI.</strong> I don’t interact with anyone under (17+). If I find out you’re a minor, you’re getting blocked, no discussion.</li>
     <li><strong>I perma-block/hide people freely.</strong> If I don’t like you for WHATEVER reason, you’re gone and I'm moving on with my life. I don’t owe you my time or energy and I refuse to engage with people who annoy me.</li>
-    <li><strong>I am NOT American.</strong> I'm Slavic (Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, then DNI.</li>
+    <li><strong>I am NOT American.</strong> I'm Slavic (Eastern European), and I do NOT care about American culture, social norms, or politics. If you think everyone should conform/courtesy to your standards, then DNI.</li>               <li><strong>DNI if you are a part of Thunderbringer (Rafa)'s friendgroup (Located in the 18+ Sonic Area).</strong> If you are unfamiliar with that group, just know that all they do is stir up drama, act like Jesus's left testicle, and make the enviourment unbearable and toxic for anyone within their radar. They are known to gang-jump people for little to no reason and I have hidden most, if not (hopefully) all of them for the sake of my own peace of mind. (Along with a personal reason, which was the final straw for me.)</strong></li>
     <li><strong>Bonus DNI if you don't agree with <a href="https://i.imgur.com/xkHZT1l.jpeg">THIS</a> as well.</li>
   </ul>
 </div>
