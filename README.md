@@ -27,7 +27,14 @@
     <li><strong>Bonus DNI if you don't agree with <a href="https://i.imgur.com/xkHZT1l.jpeg">THIS</a> as well.</li>
   </ul>
 </div>
+
 <div align="center">
   <p><strong>Uhhh... what else? Oh yeah, keep in mind that I try too hard to be funny sometimes LMFAO.</strong></p>
   <img src="https://i.imgur.com/63uaJvl.png" alt="Your Image Description" width="300">
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <p><strong>Visitor Count:</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=GoofyAhhSilly&color=blue" alt="Visitor Count">
 </div>
