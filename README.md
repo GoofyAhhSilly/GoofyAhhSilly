@@ -11,7 +11,6 @@
     <li><strong>I enjoy media but don’t fw drama.</strong> I like what I like without obsessing over it. Toxic stan culture, media activism and petty online discourses don’t interest me. I am NOT about to start dropping every piece of media just because YOU don't like it or the creator is deemed "problematic". There are larger world issues and morality debates over fiction are honestly stupid.</li>
     <li><strong>My coping mechanism is DARK humor and I use tonetags to avoid miscommunication. (But generally YOU don't have to use tonetags with me.)</li>
     <li><strong>I have the memory of a goldfish.</strong> If I forget something, just remind me instead of getting annoyed. I genuenely don't remember shit sometimes.</li>
-    <li><strong>If I cross a boundary, tell me like an adult.</strong> Passive-aggressive behavior won’t be tolerated.</li>
   </ul>
 </div>
 
