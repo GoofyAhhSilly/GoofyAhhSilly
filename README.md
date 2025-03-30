@@ -8,7 +8,7 @@
   <h2 style="color: green; font-family: 'Courier New', Courier, monospace;">✅ OK List: <img src="https://i.imgur.com/Z3TrtGJ.gif" alt="My Blinkie"></h2>
   <ul>
     <li><strong>I like meeting new people and making friends!</strong> If you’re chill, then I'm chill and we’ll get along just fine. I’m cool with INT, C+H, and W2I by default UNLESS I specifically have DNIUF in my name!</li>
-    <li><strong>I enjoy media but don’t fw drama.</strong> I like what I like without obsessing over it. Toxic stan culture, media activism and petty online discourses don’t interest me. I am NOT about to start dropping every piece of media just because YOU don't like it or the creator is deemed "problematic". There are larger world issues and morality debates over fiction are honestly stupid.</li>
+    <li><strong>I enjoy media but don’t fw drama.</strong> I like what I like without obsessing over it. Toxic stan culture, media activism and petty online discourses don’t interest me. I am NOT about to start dropping every piece of media just because YOU don't like it or the creator is deemed "problematic". There are bigger world issues and morality debates over fiction are honestly stupid.</li>
     <li><strong>My coping mechanism is DARK humor and I use tonetags to avoid miscommunication. (But YOU don't have to use tonetags with me.)</li>
     <li><strong>I have the memory of a goldfish.</strong> If I forget something, just remind me instead of getting annoyed. I genuenely don't remember shit sometimes.</li>
   </ul>
